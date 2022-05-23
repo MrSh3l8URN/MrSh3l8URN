@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Welcome</h1>
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media3.giphy.com/media/1C8bHHJturSx2/giphy.mp4)" width="600" height="300" loop="-1"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -36,7 +36,7 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="PHP" alt="PHP" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
@@ -50,8 +50,6 @@
 ### :black_nib: Hire me
 ##### To hire me is not going to be easy or fast, in order to hire me anonymously and safely you will have to follow the following steps
 
-<br>
-
 #### :card_index: Type of Work
 ##### • Website (Front, End, Host)
 ##### • Scan Websites Vulnerabilities (SQLi, XSS, ...)
@@ -61,8 +59,6 @@
 ##### • Exploit some Machine (Windows, MacOS, ...)
 ##### • DDoS (Website, IP)
 
-<br>
-
 #### :incoming_envelope: Contact Me
 ##### • Install ProtonVPN
 ##### • Turn On ProtonVPN
@@ -71,12 +67,8 @@
 ##### • Add me '@zepplin13:matrix.org'
 ##### • Let's Talk
 
-<br>
-
 #### :inbox_tray: Delivery
 ##### If the delivery is of any type of script, to ensure the safety of the client, a ScreenShot of the 'VirusTotal' screen with the developed script will be delivered, thus ensuring that there is no type of virus injected into it.
-
-<br>
 
 #### :dollar: Payment
 ##### To keep the customer anonymous and secure, payment will only be made in Bitcoin. Thus avoiding the knowledge of third parties between transactions.
