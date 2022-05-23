@@ -1,8 +1,8 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/3ohze3W4t0I4Cak276/giphy.gif" width="100" height="100"/>
   <h1>Welcome</h1>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
+  
 ---
 
 ### :woman_technologist: Who am I?
@@ -30,7 +30,7 @@
 ##### ✔️ CS50: Blockchain Essentials
 ##### ✔️ CS50: Blockchain Fundamentals  
 
-<br>
+---
 
 ### :brain: Skills
 
@@ -45,7 +45,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Shell" alt="Shell" width="40" height="40"/>
 </div>
 
-#
+---
 
 ### :black_nib: Hire me
 ##### To hire me is not going to be easy or fast, in order to hire me anonymously and safely you will have to follow the following steps
