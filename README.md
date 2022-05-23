@@ -2,8 +2,11 @@
   <img src="https://media.giphy.com/media/3ohze3W4t0I4Cak276/giphy.gif" width="100" height="100"/>
   <h1>Welcome</h1>
 </div>
-  
----
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+#
 
 ### :woman_technologist: Who am I?
 
@@ -15,7 +18,7 @@
 
 ##### This is me... a Cave Man, nobody knows who I am and where I live, a real ghost.
 
-#
+---
 
 ### :mortar_board: Formations
 ##### ✔️ CS50: Front-End Web Developer
