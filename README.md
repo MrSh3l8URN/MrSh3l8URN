@@ -21,17 +21,17 @@
 ---
 
 ### :mortar_board: Formations
-##### ✔️ CS50: Front-End Web Developer
-##### ✔️ CS50: Django for Everybody
-##### ✔️ CS50: Indroduction to Databases
-##### ✔️ CS50: Introduction to Python Programming
-##### ✔️ CS50: Scripting with Python
-##### ✔️ CS50: Shell Programming - A necessity for all Programmers
-##### ✔️ CS50: Cybersecurity Fundamentals
-##### ✔️ CS50: Unlocking Information Security
-##### ✔️ CS50: Master's Degree in Cybersecurity 
-##### ✔️ CS50: Blockchain Essentials
-##### ✔️ CS50: Blockchain Fundamentals  
+##### ✔️ edX: Front-End Web Developer
+##### ✔️ edX: Django for Everybody
+##### ✔️ edX: Indroduction to Databases
+##### ✔️ edX: Introduction to Python Programming
+##### ✔️ edX: Scripting with Python
+##### ✔️ edX: Shell Programming - A necessity for all Programmers
+##### ✔️ edX: Cybersecurity Fundamentals
+##### ✔️ edX: Unlocking Information Security
+##### ✔️ edX: Master's Degree in Cybersecurity 
+##### ✔️ edX: Blockchain Essentials
+##### ✔️ edX: Blockchain Fundamentals  
 
 ---
 
