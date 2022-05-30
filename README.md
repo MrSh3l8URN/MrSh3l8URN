@@ -67,7 +67,7 @@
 ##### • Turn On ProtonVPN
 ##### • Install Element ('https://element.io/get-started#download')
 ##### • Sign In
-##### • Add me '@zepplin13:matrix.org'
+##### • Add me '@MrSh3l8URN:matrix.org'
 ##### • Let's Talk
 
 #### :inbox_tray: Delivery
