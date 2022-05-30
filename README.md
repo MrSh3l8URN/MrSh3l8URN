@@ -10,7 +10,7 @@
 
 ### :woman_technologist: Who am I?
 
-##### I'm Zepplin, I'm old enough to describe the MacOS of a Windows, but I'm also old enough to say they suck. I live in the depths of the Internet where I make a living working to spend it all on a mere game called LIFE. 
+##### I'm Mr. Sh3l8URN, I'm old enough to describe the MacOS of a Windows, but I'm also old enough to say they suck. I live in the depths of the Internet where I make a living working to spend it all on a mere game called LIFE. 
 
 ##### Anyway, I'm a programmer and electrical engineer, I studied for 12 years to remain "unemployed" legally speaking.
 
